@@ -23,7 +23,7 @@
                     <span>Home</span>
                 </petclinic:menuItem>
 
-                <petclinic:menuItem active="${name eq 'owners'}" url="/owners/find.html" title="find customers">
+                <petclinic:menuItem active="${name eq 'owners'}" url="/owners/find.html" title="customers">
                     <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
                     <span>Find Customers</span>
                 </petclinic:menuItem>
